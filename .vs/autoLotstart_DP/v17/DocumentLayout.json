@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ezer\\Desktop\\Program\\MVCtestDeploy\\autoLotstart_DP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B90E345-7333-4808-8CD4-B2F5495B6F03}|autoLotstart_DP\\autoLotstart_DP.csproj|c:\\users\\ezer\\desktop\\program\\mvctestdeploy\\autolotstart_dp\\autolotstart_dp\\sqlhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B90E345-7333-4808-8CD4-B2F5495B6F03}|autoLotstart_DP\\autoLotstart_DP.csproj|solutionrelative:autolotstart_dp\\sqlhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B90E345-7333-4808-8CD4-B2F5495B6F03}|autoLotstart_DP\\autoLotstart_DP.csproj|c:\\users\\ezer\\desktop\\program\\mvctestdeploy\\autolotstart_dp\\autolotstart_dp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B90E345-7333-4808-8CD4-B2F5495B6F03}|autoLotstart_DP\\autoLotstart_DP.csproj|solutionrelative:autolotstart_dp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ezer\\Desktop\\Program\\MVCtestDeploy\\autoLotstart_DP\\autoLotstart_DP\\Program.cs",
+              "RelativeDocumentMoniker": "autoLotstart_DP\\Program.cs",
+              "ToolTip": "C:\\Users\\Ezer\\Desktop\\Program\\MVCtestDeploy\\autoLotstart_DP\\autoLotstart_DP\\Program.cs",
+              "RelativeToolTip": "autoLotstart_DP\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T00:18:26.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "sqlHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Ezer\\Desktop\\Program\\MVCtestDeploy\\autoLotstart_DP\\autoLotstart_DP\\sqlHandler.cs",
+              "RelativeDocumentMoniker": "autoLotstart_DP\\sqlHandler.cs",
+              "ToolTip": "C:\\Users\\Ezer\\Desktop\\Program\\MVCtestDeploy\\autoLotstart_DP\\autoLotstart_DP\\sqlHandler.cs",
+              "RelativeToolTip": "autoLotstart_DP\\sqlHandler.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAawFQAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T00:23:13.692Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
