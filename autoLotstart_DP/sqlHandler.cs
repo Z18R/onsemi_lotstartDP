@@ -6,8 +6,11 @@ namespace autoLotstart_DP
 {
     internal class SqlHandler
     {
+        //my Local
         private readonly string connectionString = "Server=DESKTOP-6E9LU1F\\SQLEXPRESS;Database=MES_ATEC;User Id=sa;Password=18Bz23efBd0J;TrustServerCertificate=True;Connection Timeout=999999;";
 
+        //ATEC Connection String
+        //private readonly string connectionString = "Server=MSDynamics-DB\\AXDB;Database=MES_ATEC;User Id=sa;Password=p@ssw0rd;TrustServerCertificate=True;Connection Timeout=999999;";
 
         // Method to Execute a Query (Insert, Update, Delete)
         public int ExecuteQuery(string query, SqlParameter[] parameters = null)
@@ -101,6 +104,7 @@ namespace autoLotstart_DP
 
                     int rowsAffected = cmd.ExecuteNonQuery();
 
+                    
                     Console.WriteLine($"Records inserted successfully: {rowsAffected}");
                 }
             }
